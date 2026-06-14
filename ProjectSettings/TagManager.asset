@@ -5,7 +5,10 @@ TagManager:
   serializedVersion: 3
   tags:
   - CinemachineTarget
-  - cheese
+  - Collectible
+  - Rat
+  - Door
+  - DepositZone
   layers:
   - Default
   - TransparentFX
