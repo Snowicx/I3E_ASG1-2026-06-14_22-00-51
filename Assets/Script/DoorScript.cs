@@ -8,7 +8,6 @@ public class DoorScript : MonoBehaviour
 
     bool isOpen = false; 
 
-    // We no longer need the Start() method trying to find the component automatically!
 
     public void Interact() 
     {

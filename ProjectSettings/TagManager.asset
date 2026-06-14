@@ -9,6 +9,7 @@ TagManager:
   - Rat
   - Door
   - DepositZone
+  - Hazard
   layers:
   - Default
   - TransparentFX
