@@ -61,3 +61,10 @@ The lazy rat acts as a decorative gatekeeper. Your progress and interaction with
 3. **`DoorScript.cs`**: Attached to the escape vent door. It receives the command from the player script once the cheese target is satisfied and fires the specific cross-fading triggers (`OpenDoor` / `CloseDoor`) inside the Unity Animator Controller to mechanically swing the door out of the way.
 
 ---
+
+### Desired Setup & Settings
+* **Unity Runtime:** Built and optimized for **Unity 2022.3 LTS** (using the Input System package).
+* **Display Resolution:** 1920x1080 (Full HD) recommended.
+* **Aspect Ratio:** 16:9 widescreen display.
+* **Input Devices:** Keyboard and Mouse are required.
+* **Audio:** Stereo headphones/speakers recommended for audio cues.
