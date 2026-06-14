@@ -12,7 +12,7 @@ public class PlayerScript : MonoBehaviour
     int depositedScore = 0; // Tracks cheese actually deposited into the zone
 
     [SerializeField]
-    int targetScore = 5; 
+    int targetScore = 18; 
 
     void Start()
     {
